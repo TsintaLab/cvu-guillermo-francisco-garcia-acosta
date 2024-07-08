@@ -100,3 +100,6 @@ Ciudad de México
 ## Idiomas
 - Español (Nativo)
 - Ingles (avanzado)
+
+## Modelos 3D
+Quieres ver algunos modelos 3D de Tsintalab presiona [aquí](https://sketchfab.com/TsintaLab)
