@@ -20,7 +20,7 @@ Periodo 2017 - Actual
 
 - Obra casa residencial - Proyecto estructural, Modelado 3D, supervisión y administración.
 - Obra remodelación Residencial - Proyecto, Modelado 3D, supervisión y administración.
-- Obra comercial - Modelado y renders Agencia Changan.
+- Obra comercial - Modelado y renders [Agencia Changan Xalapa 20 Nov](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/tree/main/Figuras/Changan).
 
 ### Gobierno Municipal Naolinco, Veracruz
 Periodo 2012 - 2013
