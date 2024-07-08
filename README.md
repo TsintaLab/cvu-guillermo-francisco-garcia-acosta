@@ -68,7 +68,7 @@ Xalapa, Veracruz](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-ac
 ICEM México
 2023](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/Cursos/CVU1.png)
 
-- Curso Dynamo Studio (Programación Visual para la arquitectura) [Fundamentos](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/Cursos/Diapositiva1_1.PNG) [Avanzado](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/Cursos/Diapositiva2_2.PNG)
+- Curso Dynamo Studio (Programación Visual para la arquitectura) [Fundamentos](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/Cursos/Diapositiva1_1.PNG) - [Avanzado](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/Cursos/Diapositiva2_2.PNG)
 DARCO
 Ciudad de México
 2018 - 2019
@@ -76,7 +76,7 @@ Ciudad de México
 ---
 
 ## Hábilidades
-- Arquitectura: Autocad, Sketchup, Revit, Dynamo, Rhino 3D, Grasshopper
+- Arquitectura: Autocad, [Sketchup](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/Cursos/Diapositiva7_7.PNG), Revit, Dynamo, Rhino 3D, Grasshopper
 - Programación: C, C++, Python, Matlab
 - Geografía: QGIS 
 - Ofimáticos: Word, Power Point, Excel, Google Sheet, Google Document, Google Slides, Latex
@@ -87,8 +87,8 @@ Ciudad de México
 ---
 
 ## Productos, concursos y obras
-- Agosto 2018 XXXI Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - Evaluador de artículos.
-- Enero 2018 An approach of smart traffic lights system using computer vision algorithms at an isolated intersection to optimize traffic flow - Arículo indexado.
+- Agosto 2018 XXXI Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - [Evaluador de artículos](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/ANIEI/Diapositiva5_5.PNG).
+- Enero 2018 An approach of smart traffic lights system using computer vision algorithms at an isolated intersection to optimize traffic flow - [Arículo de Conferencia](https://www.researchgate.net/publication/320880259_An_approach_of_smart_traffic_lights_system_using_computer_vision_algorithms_at_an_isolated_intersection_to_optimize_traffic_flow).
 - Diciembre 2017 Construcción casa habitación residencial - Casa Frutis.
 - Octubre 2017 XXX Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - Ponente.
 - Agosto 2017 XXX Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - Evaluador de artículos.
