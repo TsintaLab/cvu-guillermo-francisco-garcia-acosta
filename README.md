@@ -39,38 +39,41 @@ Periodo 2017
 - Herramientas y Procesos digitales para el Diseño Arquitectónico.
 
 ## Formación Académica
-2020 - 2024
+- 2020 - 2024
 Universidad Veracruzana
 Doctorado en Inteligencia Artificial
 Xalapa, Veracruz
 
-2014 - 2016
+- 2014 - 2016
 Universidad Veracruzana
 Maestría en Inteligencia Artificial
 Xalapa, Veracruz
 
-2007 - 2012
+- 2007 - 2012
 Universidad Veracruzana
 Licenciatura en Arquitectura
 Xalapa, Veracruz
 
 ## Cursos especiales
-EC-0217.01
+- EC-0217.01
 Impartición de cursos de formación del capital humano de manera presencial grupal
 ICEM México
 2023
 
-Curso Dynamo Studio (Programación Visual para la arquitectura)
+- Curso Dynamo Studio (Programación Visual para la arquitectura)
 DARCO
 Ciudad de México
 2018 - 2019
 
-Arquitectura: Autocad, Sketchup, Revit, Dynamo, Rhino 3D, Grasshopper
-Programación: C, C++, Python, Matlab
-Geografía: QGIS 
-Ofimáticos: Word, Power Point, Excel, Google Sheet, Google Document, Google Slides, Latex
-Diseñador: Illustrator, Photoshop, Indesign
-Sistemas operativos: Windows, Ubuntu
-Visualización de datos: Looker studio, Power BI
+## Hábilidades
+- Arquitectura: Autocad, Sketchup, Revit, Dynamo, Rhino 3D, Grasshopper
+- Programación: C, C++, Python, Matlab
+- Geografía: QGIS 
+- Ofimáticos: Word, Power Point, Excel, Google Sheet, Google Document, Google Slides, Latex
+- Diseñador: Illustrator, Photoshop, Indesign
+- Sistemas operativos: Windows, Ubuntu
+- Visualización de datos: Looker studio, Power BI
 
-Idiomas: Español (Nativo), Ingles (avanzado)
+## Idiomas
+- Español (Nativo)
+- Ingles (avanzado)
