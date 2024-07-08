@@ -8,18 +8,18 @@ Arquitectura, diseño arquitectónico, modelado 3D, criterio estructural, constr
 ---
 
 ## Experiencia Profesional
+### TsintaLab
 Periodo 2017 - Actual
-Tsinta Lab
-Empresa dedicada al ramo de arquitectura y construcción
+- Empresa dedicada al ramo de arquitectura y construcción
 
-Diseñador Arquitectónico, Supervisión, Administración, control de obra y perito responsable.
+- Diseñador Arquitectónico, Supervisión, Administración, control de obra y perito responsable.
 
-Obra casa residencial - Proyecto estructural, Modelado 3D, supervisión y administración
-Obra remodelación Residencial - Proyecto, Modelado 3D, supervisión y administración
-Obra comercial - Modelado y renders Agencia Changan
+- Obra casa residencial - Proyecto estructural, Modelado 3D, supervisión y administración.
+- Obra remodelación Residencial - Proyecto, Modelado 3D, supervisión y administración.
+- Obra comercial - Modelado y renders Agencia Changan.
 
+### Gobierno Municipal Naolinco, Veracruz
 Periodo 2012 - 2013
-Gobierno Municipal Naolinco, Veracruz
 Obras Públicas
 
 Diseñador Arquitectónico, Auxiliar de Obra
@@ -27,17 +27,16 @@ Diseñador Arquitectónico, Auxiliar de Obra
 Proyecto Imagen Urbana de Naolinco
 Ejecución de Obra Imagen Urbana
 Supervisión de Obra
-Experiencia Docente
+
+## Experiencia Docente
 Periodo 2020
 Centro de Especialización Pastoral A.C
-Herramientas digitales para la evangelización
+Herramientas digitales para la evangelización.
 
+### Universidad Veracruzana
+Herramientas y Procesos digitales para el Diseño Arquitectónico.
 
-Periodo 2017
-Universidad Veracruzana
-Herramientas y Procesos digitales para el Diseño Arquitectónico
-
-Formación Académica
+## Formación Académica
 2020 - 2024
 Universidad Veracruzana
 Doctorado en Inteligencia Artificial
