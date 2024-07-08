@@ -89,7 +89,7 @@ Ciudad de México
 ## Productos, concursos y obras
 - Agosto 2018 XXXI Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - [Evaluador de artículos](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/ANIEI/Diapositiva5_5.PNG).
 - Enero 2018 An approach of smart traffic lights system using computer vision algorithms at an isolated intersection to optimize traffic flow - [Arículo de Conferencia](https://www.researchgate.net/publication/320880259_An_approach_of_smart_traffic_lights_system_using_computer_vision_algorithms_at_an_isolated_intersection_to_optimize_traffic_flow).
-- Diciembre 2017 Construcción casa habitación residencial - Casa Frutis.
+- Diciembre 2017 Construcción casa habitación residencial - [Casa Frutis](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/tree/main/Figuras/casaFrutis).
 - Octubre 2017 XXX Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - [Ponente](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/ANIEI/Diapositiva4_4.PNG).
 - Agosto 2017 XXX Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - [Evaluador de artículos](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/ANIEI/Diapositiva6_6.PNG).
 - Agosto 2014 2° Lugar en el concurso "Ciudades Futuras - Interviniendo mi ciudad" presentando el proyecto ["Naolinco fiesta de Luz y Color. Una visión de Imagen Urbana"](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/tree/main/Figuras/ImagenUrbana)
