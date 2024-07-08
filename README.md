@@ -1,4 +1,4 @@
-<img src="https://example.com/mi-imagen.jpg" alt="Descripción de la imagen" width="200" height="200" style="border-radius:50%;" />
+<img src="Figuras/foto.jpg" alt="Descripción de la imagen" width="200" height="200" style="border-radius:50%;" />
 # Guillermo Francisco García Acosta
 2288398992 / gfgarciaa09@gmail.com / Xalapa, Veracruz
 
