@@ -45,7 +45,7 @@ Herramientas y Procesos digitales para el Diseño Arquitectónico.
 ---
 
 ## Formación Académica
-- 2020 - 2024
+- 2020 - 2024 - Pasante
 Universidad Veracruzana
 Doctorado en Inteligencia Artificial
 Xalapa, Veracruz
