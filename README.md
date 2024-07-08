@@ -35,12 +35,14 @@ Periodo 2012 - 2013
 
 ## Experiencia Docente
 ### Centro de Especialización Pastoral A.C
-Periodo 2020
-- Herramientas digitales para la evangelización.
+- Periodo 2020
+Herramientas digitales para la evangelización.
 
 ### Universidad Veracruzana
-Periodo 2017
-- Herramientas y Procesos digitales para el Diseño Arquitectónico.
+- Periodo 2017
+Herramientas y Procesos digitales para el Diseño Arquitectónico.
+
+---
 
 ## Formación Académica
 - 2020 - 2024
@@ -58,6 +60,8 @@ Universidad Veracruzana
 Licenciatura en Arquitectura
 Xalapa, Veracruz
 
+---
+
 ## Cursos especiales
 - EC-0217.01
 Impartición de cursos de formación del capital humano de manera presencial grupal
@@ -69,6 +73,8 @@ DARCO
 Ciudad de México
 2018 - 2019
 
+---
+
 ## Hábilidades
 - Arquitectura: Autocad, Sketchup, Revit, Dynamo, Rhino 3D, Grasshopper
 - Programación: C, C++, Python, Matlab
@@ -77,6 +83,8 @@ Ciudad de México
 - Diseñador: Illustrator, Photoshop, Indesign
 - Sistemas operativos: Windows, Ubuntu
 - Visualización de datos: Looker studio, Power BI
+
+---
 
 ## Idiomas
 - Español (Nativo)
