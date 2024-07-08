@@ -20,21 +20,23 @@ Periodo 2017 - Actual
 
 ### Gobierno Municipal Naolinco, Veracruz
 Periodo 2012 - 2013
-Obras Públicas
+- Obras Públicas
+- Diseñador Arquitectónico, Auxiliar de Obra
 
-Diseñador Arquitectónico, Auxiliar de Obra
+- Proyecto Imagen Urbana de Naolinco
+- Ejecución de Obra Imagen Urbana
+- Supervisión de Obra
 
-Proyecto Imagen Urbana de Naolinco
-Ejecución de Obra Imagen Urbana
-Supervisión de Obra
+---
 
 ## Experiencia Docente
+### Centro de Especialización Pastoral A.C
 Periodo 2020
-Centro de Especialización Pastoral A.C
-Herramientas digitales para la evangelización.
+- Herramientas digitales para la evangelización.
 
 ### Universidad Veracruzana
-Herramientas y Procesos digitales para el Diseño Arquitectónico.
+Periodo 2017
+- Herramientas y Procesos digitales para el Diseño Arquitectónico.
 
 ## Formación Académica
 2020 - 2024
@@ -52,7 +54,7 @@ Universidad Veracruzana
 Licenciatura en Arquitectura
 Xalapa, Veracruz
 
-Cursos especiales
+## Cursos especiales
 EC-0217.01
 Impartición de cursos de formación del capital humano de manera presencial grupal
 ICEM México
