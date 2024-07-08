@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Figuras/IMG_20220713_141709.jpg" alt="Descripción de la imagen" width="151" height="283" style="border-radius:50%;" />
+<img src="Figuras/IMG_20220713_141709.jpg" alt="Descripción de la imagen" width="345" height="460" style="border-radius:50%;" />
 </p>
 
 # Guillermo Francisco García Acosta
