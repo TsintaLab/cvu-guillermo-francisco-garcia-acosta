@@ -86,6 +86,16 @@ Ciudad de México
 
 ---
 
+## Productos, concursos y obras
+- Agosto 2018 XXXI Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - Evaluador de artículos.
+- Enero 2018 An approach of smart traffic lights system using computer vision algorithms at an isolated intersection to optimize traffic flow - Arículo indexado.
+- Octubre 2017 XXX Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - Ponente.
+- Agosto 2017 XXX Congreso Nacional y XVI Congreso Internacional de Informática y Computación de la ANIEI - Evaluador de artículos.
+- Agosto 2014 2° Lugar en el concurso "Ciudades Futuras - Interviniendo mi ciudad" presentando el proyecto "NAolinco fiesta de Luz y Color. Una visión de Imagen Urbana"
+- Julio 2011 Finalista del concurso "New York Theater City (NYTC)" convocado por Archmedium por la escuela Técnica Superiot de Arquitectura de Barcelona (ETSAB) y la Universidad Politécnica de Catalunya (UPC)
+
+---
+
 ## Idiomas
 - Español (Nativo)
 - Ingles (avanzado)
