@@ -45,20 +45,20 @@ Herramientas y Procesos digitales para el Diseño Arquitectónico.
 ---
 
 ## Formación Académica
-- 2020 - 2024 - Pasante
+- 2020 - 2024
 Universidad Veracruzana
 Doctorado en Inteligencia Artificial
-Xalapa, Veracruz
+Xalapa, Veracruz - Pasante
 
 - 2014 - 2016
 Universidad Veracruzana
-Maestría en Inteligencia Artificial
-Xalapa, Veracruz
+[Maestría en Inteligencia Artificial
+Xalapa, Veracruz](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/fAcademica/Diapositiva3.PNG)
 
 - 2007 - 2012
 Universidad Veracruzana
-Licenciatura en Arquitectura
-Xalapa, Veracruz
+[Licenciatura en Arquitectura
+Xalapa, Veracruz](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/fAcademica/Diapositiva4.PNG)
 
 ---
 
