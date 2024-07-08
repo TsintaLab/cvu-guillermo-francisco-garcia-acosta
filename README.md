@@ -64,11 +64,11 @@ Xalapa, Veracruz](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-ac
 
 ## Cursos especiales
 - EC-0217.01
-Impartición de cursos de formación del capital humano de manera presencial grupal
+[Impartición de cursos de formación del capital humano de manera presencial grupal
 ICEM México
-2023
+2023](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/Cursos/CVU1.png)
 
-- Curso Dynamo Studio (Programación Visual para la arquitectura)
+- Curso Dynamo Studio (Programación Visual para la arquitectura) [Fundamentos](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/Cursos/Diapositiva1_1.PNG) [Avanzado](https://github.com/TsintaLab/cvu-guillermo-francisco-garcia-acosta/blob/main/Figuras/Cursos/Diapositiva2_2.PNG)
 DARCO
 Ciudad de México
 2018 - 2019
